@@ -1,1 +1,7 @@
 .ipynb_checkpoints/
+data/building/BUILDLIC.zip
+data/building/BUILDLIC.json
+data/earthquake/eq_cwb/2017ASCII/
+data/earthquake/eq_cwb/2017grd/
+data/earthquake/eq_cwb/2017xml/
+data/earthquake/eq_ncree/106/
