@@ -8,4 +8,3 @@ data/earthquake/eq_cwb/2017grd/
 data/earthquake/eq_cwb/2017xml/
 data/earthquake/eq_ncree/106/
 data/*.pkl
-data/earthquake/*.pkl
